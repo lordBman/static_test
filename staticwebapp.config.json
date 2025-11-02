@@ -10,7 +10,7 @@
         },
         {
             "route": "/logout",
-            "rewrite": "/.auth/logout/github"
+            "rewrite": "/.auth/logout"
         }
     ],
     "responseOverrides": {
